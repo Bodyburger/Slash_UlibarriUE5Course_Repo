@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Program Files/Unreal Engine/UE_5.1/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset",
+				"D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset",
+				"C:/Program Files/Unreal Engine/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_TestFlipbookAnimation.uasset",
+				"C:/Program Files/Unreal Engine/UE_5.1/Engine/Content/EditorLandscapeResources/MirrorPlaneMaterial.uasset",
+				"C:/Program Files/Unreal Engine/UE_5.1/Engine/Content/EditorMaterials/PersonaFloorMat.uasset",
+				"C:/Program Files/Unreal Engine/UE_5.1/Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset",
+				"C:/Program Files/Unreal Engine/UE_5.1/Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset"
+			]
+		}
+	]
+}
