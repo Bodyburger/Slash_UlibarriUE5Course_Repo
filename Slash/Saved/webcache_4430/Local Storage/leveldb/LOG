@@ -1,2 +1,3 @@
-2022/11/22-11:58:37.542 9c4 Creating DB D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2022/11/22-11:58:37.890 9c4 Reusing MANIFEST D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2022/11/22-13:22:18.415 1b00 Reusing MANIFEST D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2022/11/22-13:22:18.416 1b00 Recovering log #3
+2022/11/22-13:22:18.417 1b00 Reusing old log D:/Unreal Projects/Slash_UlibarriUE5Course_Repo/Slash/Saved/webcache_4430\Local Storage\leveldb/000003.log 
